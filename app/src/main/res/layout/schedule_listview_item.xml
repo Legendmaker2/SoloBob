@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp">
+
+    <TextView
+        android:id="@+id/explanation_text_listItem"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/rounded_border"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/sample_explanation_text"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/registerBtn_listItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/explanation_text_listItem"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/colorPrimary"
+        android:text="@string/register_text_listItem"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp" />
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lets Eat</string>
+    <string name="email_hint_text">이메일을 입력해주세요</string>
+    <string name="password_hint_text">비밀번호를 입력해주세요</string>
+    <string name="register_text">회원가입</string>
+    <string name="submit_text">로그인</string>
+    <string name="name_hint_text">이름을 입력해주세요</string>
+    <string name="connection_failure_message">네트워크 연결이 불안정 합니다. 다시 시도해주세요.</string>
+    <string name="success_register_message">회원가입에 성공하였습니다.</string>
+    <string name="success_login_message">로그인에 성공하였습니다.</string>
+    <string name="fail_login_message">로그인에 실패하였습니다. 아이디 혹은 비밀번호를 확인해주세요.</string>
+    <string name="action_list_title">List</string>
+    <string name="action_make_title">Make</string>
+    <string name="action_manage_title">Manage</string>
+    <string name="action_schedule_title">Schedule</string>
+    <string name="restaurant_name_text_main">식당이름</string>
+    <string name="restaurant_editText_text_main">식당이름을 입력해주세요</string>
+    <string name="max_number_text">최대 인원수</string>
+    <string name="maxNumber_editText_text_main">최대인원수를 입력해주세요</string>
+    <string name="explanation_text_main">설명</string>
+    <string name="explanation_editText_text_main">설명을 입력해주세요</string>
+    <string name="submit_text_main">SUBMIT</string>
+    <string name="sample_explanation_text">sample_explanation</string>
+    <string name="register_text_listItem">신청</string>
+    <string name="acceptBtn_text">수락</string>
+    <string name="rejectBtn_text">거절</string>
+    <string name="sample_user_name_text">sample user name</string>
+</resources>
